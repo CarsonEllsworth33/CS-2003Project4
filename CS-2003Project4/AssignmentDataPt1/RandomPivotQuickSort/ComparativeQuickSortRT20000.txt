@@ -1,0 +1,200 @@
+
+sorted, true, random pivot true
+Run, 1
+Size of Array, 20000
+Time(ms) to finish, 10.00
+
+sorted, true, random pivot false
+Run, 1
+Size of Array, 20000
+Time(ms) to finish, 199.00
+
+sorted, false, random pivot true
+Run, 1
+Size of Array, 20000
+Time(ms) to finish, 8.00
+
+sorted, false, random pivot false
+Run, 1
+Size of Array, 20000
+Time(ms) to finish, 1.00
+
+sorted, true, random pivot true
+Run, 2
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, true, random pivot false
+Run, 2
+Size of Array, 20000
+Time(ms) to finish, 185.00
+
+sorted, false, random pivot true
+Run, 2
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 2
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 3
+Size of Array, 20000
+Time(ms) to finish, 3.00
+
+sorted, true, random pivot false
+Run, 3
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 3
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 3
+Size of Array, 20000
+Time(ms) to finish, 1.00
+
+sorted, true, random pivot true
+Run, 4
+Size of Array, 20000
+Time(ms) to finish, 3.00
+
+sorted, true, random pivot false
+Run, 4
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 4
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 4
+Size of Array, 20000
+Time(ms) to finish, 1.00
+
+sorted, true, random pivot true
+Run, 5
+Size of Array, 20000
+Time(ms) to finish, 3.00
+
+sorted, true, random pivot false
+Run, 5
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 5
+Size of Array, 20000
+Time(ms) to finish, 5.00
+
+sorted, false, random pivot false
+Run, 5
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 6
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, true, random pivot false
+Run, 6
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 6
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 6
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 7
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, true, random pivot false
+Run, 7
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 7
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 7
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 8
+Size of Array, 20000
+Time(ms) to finish, 9.00
+
+sorted, true, random pivot false
+Run, 8
+Size of Array, 20000
+Time(ms) to finish, 183.00
+
+sorted, false, random pivot true
+Run, 8
+Size of Array, 20000
+Time(ms) to finish, 5.00
+
+sorted, false, random pivot false
+Run, 8
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 9
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, true, random pivot false
+Run, 9
+Size of Array, 20000
+Time(ms) to finish, 184.00
+
+sorted, false, random pivot true
+Run, 9
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 9
+Size of Array, 20000
+Time(ms) to finish, 2.00
+
+sorted, true, random pivot true
+Run, 10
+Size of Array, 20000
+Time(ms) to finish, 3.00
+
+sorted, true, random pivot false
+Run, 10
+Size of Array, 20000
+Time(ms) to finish, 185.00
+
+sorted, false, random pivot true
+Run, 10
+Size of Array, 20000
+Time(ms) to finish, 4.00
+
+sorted, false, random pivot false
+Run, 10
+Size of Array, 20000
+Time(ms) to finish, 2.00

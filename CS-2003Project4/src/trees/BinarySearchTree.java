@@ -1,6 +1,5 @@
 package trees;
 
-import com.sun.xml.internal.messaging.saaj.soap.impl.TreeException;
 
 public class BinarySearchTree<T extends KeyedItem<KT>,
                              KT extends Comparable<? super KT>>

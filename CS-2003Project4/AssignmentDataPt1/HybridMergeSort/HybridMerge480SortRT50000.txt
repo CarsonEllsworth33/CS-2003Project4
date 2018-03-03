@@ -1,0 +1,33 @@
+Run, 1
+Size of Array, 50000
+Time(ms) to finish, 626.00
+Run, 2
+Size of Array, 50000
+Time(ms) to finish, 377.00
+Run, 3
+Size of Array, 50000
+Time(ms) to finish, 380.00
+Run, 4
+Size of Array, 50000
+Time(ms) to finish, 348.00
+Run, 5
+Size of Array, 50000
+Time(ms) to finish, 345.00
+Run, 6
+Size of Array, 50000
+Time(ms) to finish, 352.00
+Run, 7
+Size of Array, 50000
+Time(ms) to finish, 346.00
+Run, 8
+Size of Array, 50000
+Time(ms) to finish, 345.00
+Run, 9
+Size of Array, 50000
+Time(ms) to finish, 356.00
+Run, 10
+Size of Array, 50000
+Time(ms) to finish, 348.00
+hybrid switch value, 480
+Total avrg time, 382.30
+

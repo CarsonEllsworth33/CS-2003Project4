@@ -1,0 +1,33 @@
+Run, 1
+Size of Array, 30000
+Time(ms) to finish, 10.00
+Run, 2
+Size of Array, 30000
+Time(ms) to finish, 8.00
+Run, 3
+Size of Array, 30000
+Time(ms) to finish, 7.00
+Run, 4
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 5
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 6
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 7
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 8
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 9
+Size of Array, 30000
+Time(ms) to finish, 6.00
+Run, 10
+Size of Array, 30000
+Time(ms) to finish, 6.00
+
+Total avrg time, 6.70
+
